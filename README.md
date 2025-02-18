@@ -54,7 +54,7 @@ I love connecting with like-minded tech enthusiasts and sharing knowledge!
 
 ## 🌐 Connect with Me  
 - **LinkedIn:** [Vyom Jain](https://in.linkedin.com/in/vyom-jain)  
-- **GitHub:** [VyomJain6904](https://github.com/VyomOp2)  
+- **GitHub:** [Vyom Jain](https://github.com/VyomJain6904)  
 - **Portfolio:** [Coming Soon]  
 
 Feel free to reach out for collaboration, mentorship, or sharing knowledge. Let's make the tech world more secure and innovative together! 🚀  
