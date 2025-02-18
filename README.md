@@ -1,7 +1,7 @@
-# Hi 👋, I'm Vyom Maloo  
+# Hi 👋, I'm Vyom Jain 
 
 ## 🙋🏻‍♂️ About Me  
-Hi, I'm Vyom Maloo! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**, and creating innovative solutions in **Pentesting** and **Cloud Security**.  
+Hi, I'm Vyom Maloo! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans in creating innovative solutions in **Pentesting** and **Cloud Security** and **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**. 
 
 I'm also certified in **Quick Heal VAPT & Web VAPT**, **Managing Cloud Infrastructure & Security Analyst**, and **TryHackMe Jr. Penetration Tester**.  
 When not working on tech, I enjoy exploring cybersecurity tools, contributing to open-source, and working on challenging projects.  
@@ -19,18 +19,18 @@ I love connecting with like-minded tech enthusiasts and sharing knowledge!
 ## 😎 My Skills  
 ### Frontend:  
 - HTML, CSS, JavaScript, TypeScript, React, Next.js  
-- UI/UX with Tailwind CSS, Chakra UI  
+- UI/UX with Tailwind CSS 
 
 ### Backend:  
 - Node.js, Django, Prisma, Express.js, Mongoose  
 - Database: PostgreSQL, NeonDB, MongoDB  
 
 ### Cybersecurity:  
-- VAPT, Cloud Security, AWS Security  
+- VAPT, Cloud Security, AWS Security , Mobile Application Pentesting  
 - Cryptography, DF & IR, Python for Hacking  
 
 ### Blockchain/Web3:  
-- Ethereum, Solana, Rust  
+- Rust  
 
 ---
 
@@ -53,8 +53,8 @@ I love connecting with like-minded tech enthusiasts and sharing knowledge!
 ---
 
 ## 🌐 Connect with Me  
-- **LinkedIn:** [Vyom Maloo](https://linkedin.com/vyom-jain)  
-- **GitHub:** [VyomOp2](https://github.com/VyomOp2)  
+- **LinkedIn:** [Vyom Jain](https://in.linkedin.com/in/vyom-jain)  
+- **GitHub:** [VyomJain6904](https://github.com/VyomOp2)  
 - **Portfolio:** [Coming Soon]  
 
 Feel free to reach out for collaboration, mentorship, or sharing knowledge. Let's make the tech world more secure and innovative together! 🚀  
