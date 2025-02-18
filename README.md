@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vyom Jain 
 
 ## 🙋🏻‍♂️ About Me  
-Hi, I'm Vyom Maloo! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans in creating innovative solutions in **Pentesting** and **Cloud Security** and **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**. 
+Hi, I'm Vyom Jain! I'm passionate about **Cybersecurity** and **Full-Stack Development**. My expertise spans in creating innovative solutions in **Pentesting** and **Cloud Security** and **Next.js**, **Django**, **PostgreSQL**, **Prisma**, **Web3**, **Blockchain**. 
 
 I'm also certified in **Quick Heal VAPT & Web VAPT**, **Managing Cloud Infrastructure & Security Analyst**, and **TryHackMe Jr. Penetration Tester**.  
 When not working on tech, I enjoy exploring cybersecurity tools, contributing to open-source, and working on challenging projects.  
